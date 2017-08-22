@@ -1,0 +1,6 @@
+*.swp
+*.swo
+/tbin/
+/.build/
+/Param-Eater-*/
+/Param-Eater-*.tar.gz
